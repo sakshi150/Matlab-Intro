@@ -12,3 +12,5 @@ occurance.
 altering other columns of matrix.
 6. Construct a matrix ‘B ’whose columns are cumulative sums of the columns
 of ‘A ’.
+8. Create a vector ‘X ’containing elements from fifth and second column of
+‘A ’.
