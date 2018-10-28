@@ -12,3 +12,4 @@ occurance.
 altering other columns of matrix.
 6. Construct a matrix ‘B ’whose columns are cumulative sums of the columns
 of ‘A ’.
+7. ADD 5 to first element of ‘A ’.
