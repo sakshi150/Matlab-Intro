@@ -8,3 +8,5 @@ variable ‘A ’as A=[2 2 8 7 9 6;4 6 9 80 5 6;3 95 2 4 5 25;1 3 7 5 13 15;5 10
 MATLAB command.
 4. Find maximum value in entire ‘A ’and location of rows/column of its
 occurance.
+5. Using single MATLAB command sort 3 column in descending order without
+altering other columns of matrix.
