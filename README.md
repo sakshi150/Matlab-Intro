@@ -10,3 +10,5 @@ MATLAB command.
 occurance.
 5. Using single MATLAB command sort 3 column in descending order without
 altering other columns of matrix.
+6. Construct a matrix ‘B ’whose columns are cumulative sums of the columns
+of ‘A ’.
